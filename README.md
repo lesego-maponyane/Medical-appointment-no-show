@@ -52,10 +52,10 @@ Random Forest Classifier with hyperparameter tuning via **RandomizedSearchCV**.
 
 > Replace this with your actual performance once finalized:
 
-- Accuracy: `xx%`
-- Precision: `xx%`
-- Recall: `xx%`
-- F1-score: `xx%`
+- Accuracy: `62%`
+- Precision: `32%`
+- Recall: `74%`
+- F1-score: `44%`
 
 
 
